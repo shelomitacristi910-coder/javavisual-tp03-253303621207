@@ -4,8 +4,7 @@ Proyek ini merupakan aplikasi manajemen karakter yang dibangun menggunakan bahas
 
 ## Output Terminal
 
-![Output Terminal](screenshot-output.png)
-*(Catatan: Gantilah `screenshot-output.png` dengan nama/path file screenshot output terminal Anda yang mencakup hasil pemanggilan method `isAlive()`)*
+https://docs.google.com/document/d/1PgUKgBwo1_Gzh2oBWvaH1ETLxcgnlPoi2TTZRoMhPA8/edit?usp=sharing
 
 ## Struktur Folder Project
 
